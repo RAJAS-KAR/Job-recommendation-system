@@ -42,7 +42,6 @@ Company: Management Solutions, Position: Project Manager, Similarity: 4.51%
 - SentenceTransformers
 - PyMuPDF (fitz)
 - spaCy
-- FuzzyWuzzy
 - Transformers
 
 ## Usage
